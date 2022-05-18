@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Trang chủ"/>
+    <item
+        android:id="@+id/ic_res_tutor"
+        android:icon="@drawable/ic_baseline_person_search_24"
+        android:title="Tìm kiếm gia sư"/>
+    <item
+        android:id="@+id/ic_find_tutor"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="Đăng ký làm gia sư"/>
+    <item
+        android:id="@+id/ic_me"
+        android:icon="@drawable/ic_baseline_account"
+        android:title="Tôi"/>
+
+
+</menu>
